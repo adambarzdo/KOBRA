@@ -1,5 +1,5 @@
 # KOBRA
 
-##Editing the file
 
-KOBRA lubi siedzieć na STRYCHU 
+
+KOBRA lubi siedzieć na STRYCHU i robić pewne rzeczy tam 
